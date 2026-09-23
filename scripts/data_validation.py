@@ -21,7 +21,7 @@ Run from the project root: python scripts/data_validation.py
 
 import pandas as pd
 
-IN_PATH = "data/raw/ATT_demo_dataset.xlsx"
+IN_PATH = "data/processed/ATT_demo_dataset.xlsx"
 REPORT_PATH = "docs/data_quality_report.md"
 OUT_PATH = "data/processed/ATT_demo_dataset_converted.xlsx"
 
