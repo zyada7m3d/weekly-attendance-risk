@@ -17,7 +17,7 @@ import os
 
 import pandas as pd
 
-IN_PATH = "data/processed/fact_attendance.csv"
+IN_PATH = "outputs/fact_attendance.csv"
 CONVERTED_XLSX = "data/processed/ATT_demo_dataset_converted.xlsx"
 OUT_DIR = "outputs"
 
