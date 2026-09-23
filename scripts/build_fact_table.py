@@ -15,7 +15,7 @@ Run from the project root: python scripts/build_fact_table.py
 import pandas as pd
 
 IN_PATH = "data/processed/ATT_demo_dataset_converted.xlsx"
-OUT_PATH = "data/processed/fact_attendance.csv"
+OUT_PATH = "outputs/fact_attendance.csv"
 
 # ---------------------------------------------------------------------
 # 1. Load the sheets we need
